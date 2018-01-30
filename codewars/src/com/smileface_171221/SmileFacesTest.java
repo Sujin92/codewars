@@ -1,4 +1,4 @@
-package com.smileface_20171221;
+package com.smileface_171221;
 
 import static org.junit.Assert.assertEquals;
 
